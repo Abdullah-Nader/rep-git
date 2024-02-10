@@ -1,0 +1,11 @@
+* the git important commands:
+1- cd
+2- ls
+3- ls -a
+4- touch fileName.txt  //for example
+5- git init
+6- git status
+7- git add fileName.txt //put the file name
+8- git commit -m "commit_name" //for example git commit -m "first_change"
+9- git config --global user.name "my github user name" //like this git config --global user.name "Abdullah-Nader"
+10- git config --global user.email "my github email@example.domin" //like this git config --global user.email "abduust1@gmail.com"
